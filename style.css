@@ -168,13 +168,14 @@ footer {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
-
+  
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
 
 /* animation */
+
 @keyframes slide-in {
   from {
     left: 0%;
